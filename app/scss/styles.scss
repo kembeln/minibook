@@ -1,0 +1,98 @@
+$bg-color: #455A64;
+//rgb(68,90,101)
+$text-color-light: #fff;
+$text-color-dark: rgb(175,188,196);
+$button-color: #FF5252;
+
+body {
+  background: $bg-color;
+  color: $text-color-light;
+  font-family: 'Inconsolata', monospace;
+  line-height: 2.4em;
+}
+
+.fixed-head {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 1);
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 50px;
+  padding: 5px 10px;
+  vertical-align: bottom;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  span {
+    font-family: "RobotoRegular";
+    font-size: 16px;
+    float: left;
+  }
+
+  a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    float: right;
+    background: url(../img/vk-logo-ie.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/vk-logo.svg), none;
+    background-size: contain;
+  }
+
+  .no-svg a {
+    background-image: url(../img/vk-logo.png);
+  }
+
+
+
+}
+
+main {
+  margin-top: 50px;
+}
+
+.app-intro {
+  margin-top: 8%;
+  margin-bottom: 8%;
+
+  h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 32px;
+    text-align: center;
+  }
+
+  p {
+    padding: 0 25px;
+    text-align: center;
+  }
+
+  a {
+    display: block;
+    width: 140px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding: 6px;
+    font-weight: 700;
+    color: $text-color-light;
+    background-color: $button-color;
+  }
+}
+
+.phoneMockup {
+  max-width: 45%;
+  margin-top: 9%;
+  margin-bottom: 8%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
