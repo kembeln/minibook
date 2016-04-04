@@ -1,0 +1,639 @@
+<quiz>
+        <question
+            title="1) Назовите фамилию главного персонажа поэмы Гоголя «Мертвые души»?"
+            answer_one_name="Чацкий"
+            answer_one_state="false"
+
+            answer_two_name="Собакевич"
+            answer_two_state="false"
+
+            answer_three_name="Грибоедов"
+            answer_three_state="false"
+
+            answer_four_name="Чичиков"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="2) В каком году была написана первая глава поэмы Гоголя «Мертвые души»?"
+            answer_one_name="1832"
+            answer_one_state="false"
+
+            answer_two_name="1842"
+            answer_two_state="true"
+
+            answer_three_name="1849"
+            answer_three_state="false"
+
+            answer_four_name="1852"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="3) К кому из помещиков главный герой поэмы Гоголя «Мертвые души» отправляется в первую очередь?"
+            answer_one_name="Манилов"
+            answer_one_state="true"
+
+            answer_two_name="Плюшкин"
+            answer_two_state="false"
+
+            answer_three_name="Собакевич"
+            answer_three_state="false"
+
+            answer_four_name="Коробочка"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="4) Сколько томов поэмы «Мертвые души» Гоголь написал?"
+            answer_one_name="три"
+            answer_one_state="false"
+
+            answer_two_name="пять"
+            answer_two_state="false"
+
+            answer_three_name="два"
+            answer_three_state="true"
+
+            answer_four_name="один"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="5) Кому Шолохов посвятил рассказ ''Судьба человека''? "
+            answer_one_name="редактору издательства ''Московский рабочий'' "
+            answer_one_state="true"
+
+            answer_two_name="своей сестре"
+            answer_two_state="false"
+
+            answer_three_name="главному секретарю"
+            answer_three_state="false"
+
+            answer_four_name="своему брату"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="6) Как звали Главного Героя рассказа ''Судьба человека''? "
+            answer_one_name="Дмитрий"
+            answer_one_state="false"
+
+            answer_two_name="Михаил"
+            answer_two_state="false"
+
+            answer_three_name="Алексей"
+            answer_three_state="false"
+
+            answer_four_name="Андрей"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="7) Кем стал на фронте сын главного героя рассказа ''Судьба человека''? "
+            answer_one_name="получил звание капитана"
+            answer_one_state="true"
+
+            answer_two_name="стал разведчиков"
+            answer_two_state="false"
+
+            answer_three_name="получил звание сержанта"
+            answer_three_state="false"
+
+            answer_four_name="был подрывником"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="8) Когда был написан рассказ ''Судьба человека''? "
+            answer_one_name="1959"
+            answer_one_state="false"
+
+            answer_two_name="1956 - 1957"
+            answer_two_state="true"
+
+            answer_three_name="1950"
+            answer_three_state="false"
+
+            answer_four_name="1961"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="9) Почему бойцы в «Василии Теркине» переправляются на другой берег на понтонах, а не по мосту?"
+            answer_one_name="мост подорван"
+            answer_one_state="true"
+
+            answer_two_name="мост занят врагом"
+            answer_two_state="false"
+
+            answer_three_name="до моста далеко идти"
+            answer_three_state="false"
+
+            answer_four_name="мост слишком хрупкий"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="10) Почему Твардовский говорит, что Тёркин ''загадал далеко вдаль'' ?"
+            answer_one_name="он предсказал скорый конец войны"
+            answer_one_state="false"
+
+            answer_two_name="он хотел скорее вернуться домой"
+            answer_two_state="false"
+
+            answer_three_name="он предсказал неблизкую развязку войны"
+            answer_three_state="true"
+
+            answer_four_name="он предсказал свое награждение"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="11) Назовите жанр произведения Твардовского «Василий Теркин»."
+            answer_one_name="песня"
+            answer_one_state="false"
+
+            answer_two_name="стихотворение"
+            answer_two_state="false"
+
+            answer_three_name="роман"
+            answer_three_state="false"
+
+            answer_four_name="поэма"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="12) Кем на войне был Теркин?"
+            answer_one_name="рядовым"
+            answer_one_state="true"
+
+            answer_two_name="десантником"
+            answer_two_state="false"
+
+            answer_three_name="командиром"
+            answer_three_state="false"
+
+            answer_four_name="поваром"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="13) Правдоподобна ли ситуация, изображенная в пьесе А. В. Вампилова «Старший сын»? "
+            answer_one_name="совсем неправдоподобна"
+            answer_one_state="false"
+
+            answer_two_name="малоправдоподобна"
+            answer_two_state="true"
+
+            answer_three_name="соответствует действительности"
+            answer_three_state="false"
+
+            answer_four_name="фантастична"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="14) Кто является главным персонажем пьесы А. В. Вампилова «Старший сын»?"
+            answer_one_name="Васенька"
+            answer_one_state="false"
+
+            answer_two_name="Бусыгин"
+            answer_two_state="true"
+
+            answer_three_name="Сильва"
+            answer_three_state="false"
+
+            answer_four_name="Кудимов"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="15) Почему Сарафанов поверил Бусыгину, что тот действительно является его старшим сыном? "
+            answer_one_name="потому что он нуждался в его помощи"
+            answer_one_state="true"
+
+            answer_two_name="потому что был глуп"
+            answer_two_state="false"
+
+            answer_three_name="потому что это действительно так"
+            answer_three_state="false"
+
+            answer_four_name="потому что Бусыгин доказал свое родство"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="16) Почему Сарафанов отказывается верить разоблачению Бусыгина и его собственному признанию? "
+            answer_one_name="Сарафанов был добродушным человеком"
+            answer_one_state="false"
+
+            answer_two_name="потому что его убедили в обратном"
+            answer_two_state="false"
+
+            answer_three_name="Сарафанов успел полюбить Бусыгина"
+            answer_three_state="true"
+
+            answer_four_name="Сарафанов плохо слышал и видел"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="17) Главные персонажи повести Тургенева ''Первая любовь'' "
+            answer_one_name="Владимир и Зинаида"
+            answer_one_state="true"
+
+            answer_two_name="Борис и Ольга"
+            answer_two_state="false"
+
+            answer_three_name="Александр и Зинаида"
+            answer_three_state="false"
+
+            answer_four_name="Иван и Елена"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="18) Назовите главную тему повести Тургенева ''Первая любовь'' "
+            answer_one_name="тема дружбы"
+            answer_one_state="false"
+
+            answer_two_name="тема любви"
+            answer_two_state="true"
+
+            answer_three_name="столкновение противоположных взглядов"
+            answer_three_state="false"
+
+            answer_four_name="тема непонимания "
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="19) Можно ли повесть Тургенева ''Первая любовь'' назвать автобиографическим произведением?"
+            answer_one_name="да, можно"
+            answer_one_state="true"
+
+            answer_two_name="нет, нельзя"
+            answer_two_state="false"
+
+            answer_three_name="это скорее выдумка"
+            answer_three_state="false"
+
+            answer_four_name="это абсолютно выдуманная история"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="20) Укажите год написания повести Тургенева «Первая любовь»"
+            answer_one_name="1840"
+            answer_one_state="false"
+
+            answer_two_name="1869"
+            answer_two_state="false"
+
+            answer_three_name="1860"
+            answer_three_state="true"
+
+            answer_four_name="1890"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="21) Укажите верные имя и отчество писателя Толстого, автора трилогии ''Детство'', ''Отрочество'', ''Юность'' "
+            answer_one_name="Алексей Константинович"
+            answer_one_state="false"
+
+            answer_two_name="Алексей Николаевич"
+            answer_two_state="false"
+
+            answer_three_name="Лев Константинович"
+            answer_three_state="false"
+
+            answer_four_name="Лев Николаевич"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="22)Дети – герои этого произведения – учились:"
+            answer_one_name="в гимназии"
+            answer_one_state="false"
+
+            answer_two_name="в лицее"
+            answer_two_state="false"
+
+            answer_three_name="на дому с учителем"
+            answer_three_state="true"
+
+            answer_four_name="в сельской школе"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="23) ''Вся её жизнь была любовь и самопожертвование… '' - говорит Толстой: "
+            answer_one_name="о Наталье Никитишне"
+            answer_one_state="false"
+
+            answer_two_name="о Мими"
+            answer_two_state="false"
+
+            answer_three_name="о маменьке"
+            answer_three_state="false"
+
+            answer_four_name="о Наталье Савишне"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="24) Особенность психологизма в произведении Л. Н. Толстого – это: "
+            answer_one_name="осознание главным героем своей избранности и гениальности"
+            answer_one_state="false"
+
+            answer_two_name="наличие неменяющегося характера главного героя"
+            answer_two_state="false"
+
+            answer_three_name="постоянная противоречивость в отношении главного героя к окружающим его людям"
+            answer_three_state="false"
+
+            answer_four_name="меняющийся внутренний мир главного героя"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="25) Кем по профессии был Беликов – главный герой рассказа Чехова ''Человек в футляре''?"
+            answer_one_name="физиком"
+            answer_one_state="false"
+
+            answer_two_name="учителем"
+            answer_two_state="true"
+
+            answer_three_name="доктором"
+            answer_three_state="false"
+
+            answer_four_name="студентом"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="26) На ком коллеги Беликова решили его женить? "
+            answer_one_name="На Машеньке"
+            answer_one_state="false"
+
+            answer_two_name="На Дашеньке"
+            answer_two_state="false"
+
+            answer_three_name=" На Вареньке"
+            answer_three_state="true"
+
+            answer_four_name="На Дуне"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="27) Какое занятие Беликов посчитал совершенно неприличным для преподавателя гимназии и женщины?"
+            answer_one_name="на коньках"
+            answer_one_state="false"
+
+            answer_two_name="на лошадях"
+            answer_two_state="false"
+
+            answer_three_name="на автобусе"
+            answer_three_state="false"
+
+            answer_four_name="на велосипеде"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="28) Кто часто произносил фразу: ''Оно, конечно, так-то так, всё это прекрасно, да как бы чего не вышло''?"
+            answer_one_name="Буркин"
+            answer_one_state="false"
+
+            answer_two_name="Беликов"
+            answer_two_state="true"
+
+            answer_three_name="Варенька"
+            answer_three_state="false"
+
+            answer_four_name="один из второстепенных персонажей"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="29) Определите жанр текста Бунина ''Жизнь Арсеньева''"
+            answer_one_name="рассказ"
+            answer_one_state="false"
+
+            answer_two_name="повесть"
+            answer_two_state="false"
+
+            answer_three_name="роман"
+            answer_three_state="true"
+
+            answer_four_name="очерк"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="30) Как зовут главного персонажа? (Произведение Бунина, ''Жизнь Арсеньева'')"
+            answer_one_name="Алексей"
+            answer_one_state="true"
+
+            answer_two_name="Дмитрий"
+            answer_two_state="false"
+
+            answer_three_name="Иван"
+            answer_three_state="false"
+
+            answer_four_name="Михаил"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="31) Где был написан роман Бунина?"
+            answer_one_name="в Петербурге"
+            answer_one_state="false"
+
+            answer_two_name="на родине писателя"
+            answer_two_state="false"
+
+            answer_three_name="в Москве"
+            answer_three_state="false"
+
+            answer_four_name="в эмиграции"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="32) Укажите годы жизни И.А. Бунина"
+            answer_one_name="1880 - 1960"
+            answer_one_state="false"
+
+            answer_two_name="1870 - 1953"
+            answer_two_state="true"
+
+            answer_three_name="1870 - 1920"
+            answer_three_state="false"
+
+            answer_four_name="1860 – 1940"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="33) Назовите жанр произведения М.Горького ''Мои университеты'':"
+            answer_one_name="Роман"
+            answer_one_state="true"
+
+            answer_two_name="Повесть"
+            answer_two_state="false"
+
+            answer_three_name="Комедия"
+            answer_three_state="false"
+
+            answer_four_name="Поэма"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="34) Как называется последняя книга автобиографической трилогии М. Горького?"
+            answer_one_name="''Детство''"
+            answer_one_state="false"
+
+            answer_two_name="''В людях''"
+            answer_two_state="false"
+
+            answer_three_name="''Юность''"
+            answer_three_state="false"
+
+            answer_four_name="''Мои университеты''"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="35) Повесть ''Мои университеты'' посвящена периоду жизни Горького:"
+            answer_one_name="с 1884 по 1888 год"
+            answer_one_state="true"
+
+            answer_two_name="с 1888 по 1889 год"
+            answer_two_state="false"
+
+            answer_three_name="с 1869 по 1870 год"
+            answer_three_state="false"
+
+            answer_four_name="с 1889 по 1901 год"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="36) Алеша Пешков вскоре после своего знакомства с Деренковым поступил на работу:"
+            answer_one_name="В крендельное заведение"
+            answer_one_state="true"
+
+            answer_two_name="В столярный цех"
+            answer_two_state="false"
+
+            answer_three_name="На пароход"
+            answer_three_state="false"
+
+            answer_four_name="В маслобойню"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="37) Как звали Гоголя?"
+            answer_one_name="Николай Васильевич"
+            answer_one_state="true"
+
+            answer_two_name="Василий Николаевич"
+            answer_two_state="false"
+
+            answer_three_name="Владимир Васильевич"
+            answer_three_state="false"
+
+            answer_four_name="Николай Владимирович"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="38) Какое произведение не принадлежит Гоголю:"
+            answer_one_name="''Тарас Бульба''"
+            answer_one_state="false"
+
+            answer_two_name="''Невский проспект''"
+            answer_two_state="false"
+
+            answer_three_name="''Мцыри''"
+            answer_three_state="true"
+
+            answer_four_name="''Мертвые души''"
+            answer_four_state="false"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="39) Нос майора Ковалева в повести «Нос» был в чине"
+            answer_one_name="коллежского регистратора"
+            answer_one_state="false"
+
+            answer_two_name="канцлера"
+            answer_two_state="false"
+
+            answer_three_name="коллежского асессора"
+            answer_three_state="false"
+
+            answer_four_name="статского советника"
+            answer_four_state="true"/>
+    </quiz>
+
+    <quiz>
+        <question
+            title="40) Год написания повести «Нос»"
+            answer_one_name="1833"
+            answer_one_state="true"
+
+            answer_two_name="1840"
+            answer_two_state="false"
+
+            answer_three_name="1850"
+            answer_three_state="false"
+
+            answer_four_name="1833"
+            answer_four_state="false"/>
+    </quiz>
